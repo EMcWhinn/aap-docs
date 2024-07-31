@@ -1,0 +1,4 @@
+[id="con-aap-gs-automation-decisions"]
+
+= Automation decisions
+
