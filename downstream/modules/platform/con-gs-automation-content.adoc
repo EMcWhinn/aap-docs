@@ -1,4 +1,4 @@
-[id="con-aap-gs-automation-content"]
+[id="con-gs-automation-content"]
 
 = Automation content
 

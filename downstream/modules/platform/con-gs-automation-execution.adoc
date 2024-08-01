@@ -1,4 +1,4 @@
-[id="con-aap-gs-automation-execution"]
+[id="con-gs-automation-execution"]
 
 = Automation execution
 

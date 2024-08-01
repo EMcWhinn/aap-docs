@@ -1,5 +1,0 @@
-[id="con-aap-gs-final-set-up"]
-
-= Final set-up and usage 
-
-

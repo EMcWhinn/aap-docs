@@ -1,0 +1,23 @@
+[id="assembly-gs-auto-dev"]
+
+= Getting started as an automation developer
+
+As an automation developer, you can use {PlatformNameShort} to implement your organization's automation strategy. 
+{PlatformNameShort} can help you write, test, and share automation content, and download and use Red Hat certified collections. 
+This guide will walk you through the basic steps to get set up as an automation developer on {PlatformNameShort}. 
+To get started as an automation developer, learn how to: 
+
+* Set up your development environment
+* Use playbooks and rulebooks
+* Create roles
+* Find existing automation content and publish your own custom content
+* Use execution environments and decision environments
+* Create a project
+* Create and run rulebook activations for {EDAName}
+
+//Add Aine's devtools doc:
+//include::
+include::platform/con-gs-create-automation-content.adoc[leveloffset=+1]
+include::platform/con-gs-define-events-rulebooks.adoc[leveloffset=+1]
+include::platform/con-gs-ansible-roles.adoc[leveloffset=+1]
+include::platform/con-gs-learn-about-collections.adoc[leveloffset=+1]
