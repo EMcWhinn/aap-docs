@@ -1,6 +1,5 @@
 [id="assembly-gs-auto-dev_{context}"]
 
-
 = Getting started as an automation developer
 
 As an automation developer, you can use {PlatformNameShort} to implement your organization's automation strategy. 

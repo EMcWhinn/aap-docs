@@ -1,7 +1,5 @@
 [id="assembly-gs-auto-op_{context}"]
 
-:chapter: operator
-
 = Getting started as an automation operator
 
 As an automation operator, {PlatformNameShort} can help you organize and manage automation projects using Red Hat certified collections or custom content for your organization. 
