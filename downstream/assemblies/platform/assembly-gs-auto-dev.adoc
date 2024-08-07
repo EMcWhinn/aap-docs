@@ -1,4 +1,13 @@
+ifdef::context[:parent-context-of-assembly-gs-auto-dev: {context}]
+
+:_mod-docs-content-type: ASSEMBLY
+
+ifndef::context[]
+[id="assembly-gs-auto-dev"]
+endif::[]
+ifdef::context[]
 [id="assembly-gs-auto-dev_{context}"]
+endif::[]
 
 = Getting started as an automation developer
 
@@ -40,3 +49,6 @@ include::platform/con-gs-rulebook-activations.adoc[leveloffset=+1]
 //include::platform/proc-eda-restart-rulebook-activations.adoc[leveloffset=+2]
 //include::platform/proc-eda-delete-rulebook-activations.adoc[leveloffset=+2]
 //include::platform/proc-eda-activate-webhook.adoc[leveloffset=+2]
+
+ifdef::parent-context-of-assembly-gs-auto-dev[:context: {parent-context-of-assemblyname}]
+ifndef::parent-context-of-assembly-gs-auto-dev[:!context:]

@@ -1,4 +1,4 @@
-[id="con-gs-ansible-roles"]
+[id="con-gs-ansible-roles_{context}"]
 
 = Bundle content with Ansible roles
 
