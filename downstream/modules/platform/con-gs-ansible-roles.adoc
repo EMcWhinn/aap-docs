@@ -10,4 +10,4 @@ To learn more about roles, see link:https://www.redhat.com/en/topics/automation/
 
 == Creating a role
 
-
+//ADD CONTENT
