@@ -55,3 +55,8 @@ You can also use {LightspeedShortName}, Ansible's generative AI service, to crea
 * {LinkPlaybooksGettingStarted}
 * link:https://docs.redhat.com/en/documentation/red_hat_ansible_lightspeed_with_ibm_watsonx_code_assistant/2.x_latest/html/red_hat_ansible_lightspeed_with_ibm_watsonx_code_assistant_user_guide/index[{LightspeedFullName} user guide]
 
+Similar to a playbook, use Ansible roles to create reusable automation content that helps teams to work more efficiently and avoid duplicate efforts. 
+With roles, you can group together a broader range of existing automation content. 
+This includes playbooks, configuration files, templates, tasks, and handlers to create customized automation content that can be reused and shared with others. 
+
+You can also make roles configurable by exposing variables that users can set when calling the role, allowing them to configure their system according to their organization's requirements.

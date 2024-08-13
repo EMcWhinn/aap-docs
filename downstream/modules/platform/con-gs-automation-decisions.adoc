@@ -9,3 +9,6 @@ Managed through {EDAcontroller}, Ansible rulebooks are the framework for automat
 
 .Additional resources
 For more information about rulebook, events, and sources, see xref:con-gs-define-events-rulebooks[Rulebook actions].
+
+.Additional resources
+For more information about rulebook actions rulebooks, events, and sources, see xref:con-gs-define-events-rulebooks[Rulebook actions].
